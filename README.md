@@ -1,4 +1,4 @@
-# HACKER STATISTICS
+# Hacker Statistics
 In this case study you are in the door of the empire state building. 
 You through a dice 100 times:
   - if it's 1 or 2 you go one step down, 
