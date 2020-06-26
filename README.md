@@ -22,3 +22,15 @@ and how this relates to other data, like the number of viewers and the quality o
   - Analysing viewership and the ad industry over time. Checking the ad cost over time and how the # of users relates to that
   - Counting halftime show appearances for each musician
   - Checking who performed the most songs in a halftime show
+  
+# The app market in google play
+In this project we take a look at the android app market by using data straight from the Google Play website.
+The data consist of two sets: one for the appstore and a second one for the reviews
+https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
+https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv
+In the 1st part we import and inspect the data, dropping duplicates, examining datas' types and check for missing values
+In the 2nd part we clean the data, replacing unecessary characters with 'space' and prepare the data for analysis
+In the 3rd part we analyse the general characteristics of the data, specifically:
+  - Explore the different app categories
+  - Checking the distribution of the ratings
+  - Go deeper in the relationship between several characteristics like: price vs category & Free vs non-free apps
