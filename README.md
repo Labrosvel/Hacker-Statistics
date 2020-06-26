@@ -28,9 +28,10 @@ In this project we take a look at the android app market by using data straight 
 The data consist of two sets: one for the appstore and a second one for the reviews
 https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore.csv
 https://www.kaggle.com/lava18/google-play-store-apps?select=googleplaystore_user_reviews.csv
-In the 1st part we import and inspect the data, dropping duplicates, examining datas' types and check for missing values
-In the 2nd part we clean the data, replacing unecessary characters with 'space' and prepare the data for analysis
-In the 3rd part we analyse the general characteristics of the data, specifically:
+
+-In the 1st part we import and inspect the data, dropping duplicates, examining datas' types and check for missing values
+-In the 2nd part we clean the data, replacing unecessary characters with 'space' and prepare the data for analysis
+-In the 3rd part we analyse the general characteristics of the data, specifically:
   - Explore the different app categories
   - Checking the distribution of the ratings
   - Go deeper in the relationship between several characteristics like: price vs category & Free vs non-free apps
